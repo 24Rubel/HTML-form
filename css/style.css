@@ -1,0 +1,46 @@
+/**************************
+ 		Global CSS
+***************************/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+a a:hover{
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Poppins', sans-serif;
+}
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	list-style: none;
+}
+
+
+/***************************************
+Header + banner section css code start
+****************************************/
+
+/***************************************
+Header + banner section css code end
+****************************************/
+
+
+
+
+
+
+
+/*************Md Rubel Gazi*************/
